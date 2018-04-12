@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-
 <style>
   .black-box {
     background-color: black;
@@ -12,6 +9,7 @@
     padding: 20px;
   }
 </style>
+<html>
   <!-- Insert pile of travel pictures -->
 <div class="box black-box">
   <h1>Beth Knows Her</h1>
@@ -26,7 +24,7 @@
 </div>
 
 <div class="box black-box">
-  <h3>RECENT WORK<h3>
+  <h3>RECENT WORK</h3>
   <p>recentwork.here</p>
 </div>
 </body>
